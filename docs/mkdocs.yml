@@ -1,0 +1,13 @@
+site_name: Hermes Collab Test
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+
+nav:
+  - Home: index.md
+  - API Reference: api.md
+  - CLI Guide: cli.md
+  - Contributing: contributing.md
