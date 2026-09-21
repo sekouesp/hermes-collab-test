@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-09-21 00:00:00 UTC",
+  "issues": [],
+  "discussions": [],
+  "project_items": [],
+  "devices": {
+    "windows-main": {
+      "agent": "hermes",
+      "current_task": null,
+      "completed": [],
+      "last_sync": "2026-09-21 00:00:00 UTC"
+    },
+    "macbook-pro": {
+      "agent": "opencode",
+      "current_task": null,
+      "completed": [],
+      "last_sync": "2026-09-21 00:00:00 UTC"
+    },
+    "linux-server": {
+      "agent": "codex",
+      "current_task": null,
+      "completed": [],
+      "last_sync": "2026-09-21 00:00:00 UTC"
+    }
+  }
+}
