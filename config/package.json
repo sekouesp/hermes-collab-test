@@ -1,0 +1,13 @@
+{
+  "name": "hermes-test-config",
+  "version": "0.1.0",
+  "description": "TypeScript config and scripts for hermes-collab-test",
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.3",
+    "eslint": "^8.56"
+  }
+}
